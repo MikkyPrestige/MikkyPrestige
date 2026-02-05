@@ -4,8 +4,11 @@
  [![Visitors](https://api.visitorbadge.io/api/visitors?path=MikkyPrestige&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat)](https://visitorbadge.io/status?path=MikkyPrestige)
 
 ###  🤝🏽 Connect with me →
- <a href="https://www.linkedin.com/in/mikkyprestige" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" align="center"></a> | <a href="https://mikkyprestige.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" align="center"></a>
+ <a href="https://www.linkedin.com/in/mikkyprestige" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" align="center"></a> 
+  <!--
+ <a href="https://mikkyprestige.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" align="center"></a>
  * <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" align="center"> Please feel free to reach out to me if you have any question or feedback for me
+  -->
 
 <!--
 ### I am **Elue Michael**, A *Front-End Developer*. passionate about sharing knowledge and web development.
@@ -28,7 +31,7 @@
 ### 🔭 I'm currently working on →
  * <a href="https://github.com/MikkyPrestige/hospitoFind" target="_blank">HospitoFind</a>
 
- -->
+
 
 ### 💼 Technical Skills →
 * <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" align="center"></span> * <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS# Badge" align="center"></span> * <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" align="center"></span> * <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" align="center"></span>
@@ -41,9 +44,9 @@
 ### 💻 Goals →
  * 💞️ I’m working towards becoming a world class developer under the year in view.
  * 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-  -->
+
  * 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
- 
+  <!--
  ### 📈 GitHub Stats →
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkyPrestige&layout=compact&theme=react&s)]
