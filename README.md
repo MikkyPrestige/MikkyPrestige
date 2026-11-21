@@ -1,28 +1,25 @@
-# Hello World 👋🏾
+# Hello World
 
 <!--  ![](https://komarev.com/ghpvc/?username=your-MeekyBerry&color=green) -->
  [![Visitors](https://api.visitorbadge.io/api/visitors?path=MikkyPrestige&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat)](https://visitorbadge.io/status?path=MikkyPrestige)
 
+<!-- 
 ###  🤝🏽 Connect with me →
  <a href="https://www.linkedin.com/in/michaelelue" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" align="center"></a> 
-  <!--
  <a href="https://mikkyprestige.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" align="center"></a>
  * <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" align="center"> Please feel free to reach out to me if you have any question or feedback for me
-  -->
-
-<!--
+ 
 ### I am **Elue Michael**, A *Front-End Developer*. passionate about sharing knowledge and web development.
-
 
 <a href="https://replit.com/@meekyberry" target="_blank"><img src="https://img.shields.io/badge/replit-100000?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge" align="center"></a> |
 ## 😊 Here's a quick summary of me →
 -->
 
- ### 💡 Fun Facts →
+ ### Fun Facts === No Fun
+ <!--
  *  I have a diploma degree in Front-End Enginerring from AltSchool Africa <a href="https://www.altschoolafrica.com/schools/engineering" target="_blank">School of Software Engineering</a>
  * 👀 I’m interested in Coding challenges
  * I love <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN badge" align="center" />
- <!--
  * AND <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" alt="Fifa badge" align="center" /> Games
  
  ### 🌱 I’m currently learning →
